@@ -3,8 +3,8 @@
 Here is my plan to start running after 7 years again. Today is 2 March of 2020 and I am going to run on Singapore marathon on 5 Dec 2020.
 
 ##### Weekly 1
-- Day 1:  -> Goal: 15 Min -> Status: Done 
-- Day 2:  -> Goal: 15 Min -> Status:
+- Day 1:  -> Goal: 15 Min -> Status: Done
+- Day 2:  -> Goal: 20 Min -> Status: Done
 - Day 3:  -> Goal: Rest -> Status:
 - Day 4:  -> Goal: 35 Min -> Status:
 - Day 5:  -> Goal: Rest -> Status:
