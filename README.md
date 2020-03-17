@@ -19,16 +19,16 @@ Here is my plan to start running after 7 years again. Today is 2 March of 2020 a
 - Day 2:  -> Goal: 25 Min -> Status: Done
 - Day 3:  -> Goal: Rest -> Status: Done
 - Day 4:  -> Goal: 35 Min -> Status: Done
-- Day 5:  -> Goal: Rest -> Status:
-- Day 6:  -> Goal: 35 Min -> Status:
-- Day 7:  -> Goal: Rest -> Status:
+- Day 5:  -> Goal: Rest -> Status: Done
+- Day 6:  -> Goal: 35 Min -> Status: Done
+- Day 7:  -> Goal: Rest -> Status: Done
 
 - Total Time:
 - Weight:
 
 ##### Weekly 3
-- Day 1:  -> Goal: 25 Min -> Status:
-- Day 2:  -> Goal: 25 Min -> Status:
+- Day 1:  -> Goal: 25 Min -> Status: Failed
+- Day 2:  -> Goal: 25 Min -> Status: Done
 - Day 3:  -> Goal: Rest -> Status:
 - Day 4:  -> Goal: 35 Min -> Status:
 - Day 5:  -> Goal: Rest -> Status:
